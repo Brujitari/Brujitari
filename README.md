@@ -4,7 +4,7 @@
 
 ## My Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brujitari)](https://github.com/Brujitari/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brujitari&show_icons=true)](https://github.com/Brujitari/github-readme-stats)
 
 
 <!--
