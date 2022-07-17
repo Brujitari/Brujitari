@@ -3,6 +3,12 @@
 
 
 ## My Statistics
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
 ![Brujitari's Stats](https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true)
 <br>
 ![Brujitari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact)
