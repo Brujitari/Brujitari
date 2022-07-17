@@ -4,9 +4,11 @@
 
 ## My Statistics
 
-<div align="center" display:"grid">
+<div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true" />
+ <br>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact" />
+ <br>
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true" />
 </div>
 
