@@ -1,7 +1,6 @@
 ## I'm a Full Stack Developer with 1 year of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
-Ask me anything <a href="https://github.com/Brujitari/Brujitari/issues/new"><b>here</b></a><br>
-or <a href="mailto:natimontesg2@gmail.com"><b>email</b></a> me.
+Ask me anything <a href="https://github.com/Brujitari/Brujitari/issues/new"><b>here</b></a> or <a href="mailto:natimontesg2@gmail.com"><b>email</b></a> me.
 
 ### My Statistics
 
