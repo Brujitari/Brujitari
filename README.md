@@ -1,4 +1,4 @@
-# Full-stack developer with a voracious appetite for knowledge!
+## Full-stack developer with a voracious appetite for knowledge!
 
 
 
@@ -9,7 +9,7 @@
       alt="bootstrap" width="40" height="40" /> </a> </p>
 
 
-## My Statistics
+### My Statistics
 
 <div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true" />
