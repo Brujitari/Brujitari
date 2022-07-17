@@ -1,4 +1,4 @@
-## Full-stack developer with a voracious appetite for knowledge!
+## Hi! I'm a developer with a voracious appetite for knowledge and open to work.
 
 
 
