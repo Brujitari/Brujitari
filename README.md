@@ -13,10 +13,9 @@
 
 <div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true" />
- <br>
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true" />
  <br>
-  <img width="48%"class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact" />
+  <img width="80%"class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
