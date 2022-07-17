@@ -11,6 +11,9 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 
 <p align="center">
+  <video width="320" height="240" auto>
+    <source src="https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true">
+    </video>
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact/>
 <a href="https://github.com/Brujitari?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Brujitari&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Brujitari's trophy stats"/></a>
 </p>
