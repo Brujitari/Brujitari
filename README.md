@@ -13,8 +13,8 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 
 <p align="center">
-<a href="https://wakatime.com/@Voko"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
+<a href="https://wakatime.com/@Voko"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brujitari&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@Brujitari's wakatime stats"/></a>
+<a href="https://github.com/Brujitari?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Brujitari&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Brujitari's trophy stats"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
