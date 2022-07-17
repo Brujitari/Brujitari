@@ -24,7 +24,7 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 ![Brujitari's Stats](https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Brujitari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true)
-![Brujitari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact)
+                  ![Brujitari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact)
 ![Brujitari's Achievements](https://github-profile-trophy.vercel.app/?username=Brujitari&theme=onestar&no-frame=true&column=3&row=2)
 
 <br>
