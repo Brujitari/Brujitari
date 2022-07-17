@@ -10,7 +10,7 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 ![Brujitari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true)
 
 
-<p align="center" width="100%">
+<p align="center">
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact/>
 <a href="https://github.com/Brujitari?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Brujitari&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Brujitari's trophy stats"/></a>
 </p>
