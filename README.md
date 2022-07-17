@@ -1,14 +1,14 @@
 ## I'm a Full Stack Developer with 1 year of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
-Feel free to ask me anything <a href="https://github.com/Brujitari/Brujitari/issues/new"><b>here</b></a> or <a href="mailto:natimontesg2@gmail.com"><b>email</b></a> me.
+Looking for opportunities and collaborations, feel free to ask me anything <a href="https://github.com/Brujitari/Brujitari/issues/new"><b>here</b></a> or <a href="mailto:natimontesg2@gmail.com"><b>email</b></a> me.
 
 ### My Statistics
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brujitari&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Brujitari's Stats](https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Brujitari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true)
 ![Brujitari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact)
-
-
 
 
 
