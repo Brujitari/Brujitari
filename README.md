@@ -9,6 +9,7 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
+![Brujitari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
