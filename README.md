@@ -4,8 +4,7 @@
 
 ## My Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brujitari&show_icons=true&theme=radical)](https://github.com/Brujitari/github-readme-stats)
-
+![Brujitari's Stats](https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
