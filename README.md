@@ -8,7 +8,7 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,express,ts,py,fastapi,jest,firebase,mongodb,redis,postgres,sqlite,prisma,nginx,aws,graphql,heroku,git,kubernetes,docker,githubactions,linux,vim,bash,discord,dynamodb,regex,solidity,remix,gitlab" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,react,express,mongodb,postgres,git,docker,githubactions,linux,bash,discord,regex" />
   </a>
 </p>
 
