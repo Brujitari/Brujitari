@@ -8,7 +8,7 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,react,express,postgres,mongodb,sass,git,githubactions" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,postgres,mongodb,sass,git,githubactions" />
     <br/>
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,docker,linux,bash,discord,regex,figma" />
   </a>
@@ -31,3 +31,7 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
         <img alt="codewars badge" src="https://www.codewars.com//users/Brujitari/badges/large">
     </a>
 </p>
+
+## Holopins
+
+[![@brujitari's Holopin board](https://holopin.io/api/user/board?user=brujitari)](https://holopin.io/@brujitari)
