@@ -4,6 +4,16 @@
 
 Looking for opportunities and collaborations, feel free to ask me anything <a href="https://github.com/Brujitari/Brujitari/issues/new"><b>here</b></a> or <a href="mailto:natimontesg2@gmail.com"><b>email</b></a> me.
 
+<h3 align="center"> Everyday tools: </h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,express,ts,py,fastapi,jest,firebase,mongodb,redis,postgres,sqlite,prisma,nginx,aws,graphql,heroku,git,kubernetes,docker,githubactions,linux,vim,bash,discord,dynamodb,regex,solidity,remix,gitlab" />
+  </a>
+</p>
+
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/Brujitari/express-vector-logo/blob/main/vector-png-express-js-logo.png" alt="express"></a>
