@@ -1,3 +1,5 @@
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Nati Montes</h1>
+
 ## I'm a Full Stack Developer with 1 year of hands-on experience designing and developing applications and solutions using the latest technologies and programming languages. 👾
 
 Looking for opportunities and collaborations, feel free to ask me anything <a href="https://github.com/Brujitari/Brujitari/issues/new"><b>here</b></a> or <a href="mailto:natimontesg2@gmail.com"><b>email</b></a> me.
