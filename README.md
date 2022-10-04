@@ -19,12 +19,12 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 ## My Statistics
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brujitari&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!---[![Brujitari's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brujitari&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 ![Brujitari's Stats](https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Brujitari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true)
 ![Brujitari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brujitari&theme=react&show_icons=true&hide_border=true&layout=compact)
-![Brujitari's Achievements](https://github-profile-trophy.vercel.app/?username=Brujitari&theme=onestar&no-frame=true&column=3&row=2)
+<!---![Brujitari's Achievements](https://github-profile-trophy.vercel.app/?username=Brujitari&theme=onestar&no-frame=true&column=3&row=2)-->
 <br>
 <p align="center">
     <a href="https://www.codewars.com/users/Brujitari">
