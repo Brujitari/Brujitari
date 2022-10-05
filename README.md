@@ -35,3 +35,9 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 ## Holopins
 
 [![@brujitari's Holopin board](https://holopin.io/api/user/board?user=brujitari)](https://holopin.io/@brujitari)
+
+<!-- ## ❤ Views and Followers -->
+<a href="https://github.com/Brujitari">
+    <img src="https://komarev.com/ghpvc/?username=Brujitari">
+</a>
+<a href="https://github.com/Brujitari?tab=followers"><img src="https://img.shields.io/github/followers/Brujitari?label=Followers&style=social" alt="GitHub Badge"></a>
