@@ -36,8 +36,14 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 [![@brujitari's Holopin board](https://holopin.io/api/user/board?user=brujitari)](https://holopin.io/@brujitari)
 
-<!-- ## ❤ Views and Followers -->
+## Connect with me
 <a href="https://github.com/Brujitari">
     <img src="https://komarev.com/ghpvc/?username=Brujitari">
 </a>
 <a href="https://github.com/Brujitari?tab=followers"><img src="https://img.shields.io/github/followers/Brujitari?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://twitter.com/itWorksOnLocal">
+        <img src="https://img.shields.io/twitter/follow/itWorksOnLocal?label=Twitter&style=social" alt="Twitter Nat">
+    </a>
+    <a href="https://www.linkedin.com/in/natalia-sofware-developer/">
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+    </a>
