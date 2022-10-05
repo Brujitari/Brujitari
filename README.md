@@ -19,7 +19,7 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 ## My Statistics
 
-<!---[![Brujitari's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brujitari&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+[![Brujitari's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brujitari&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Brujitari's Stats](https://github-readme-stats.vercel.app/api?username=Brujitari&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Brujitari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brujitari&theme=react&hide_border=true)
