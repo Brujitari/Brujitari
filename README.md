@@ -16,7 +16,6 @@ Looking for opportunities and collaborations, feel free to ask me anything <a hr
 
 <br/>
 
-
 ## My Statistics
 
 [![Brujitari's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brujitari&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
